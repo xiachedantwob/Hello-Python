@@ -1,2 +1,6 @@
 # Hello-Python
-学习如何使用GitHub
+Hello,everyone,and welcome.Thank you so much.
+Today, we will teach you a very niubi skill.
+This is ~~~  GitHub!!!
+What?
+I love Fish.com!
